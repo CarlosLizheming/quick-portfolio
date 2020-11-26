@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Interactive Dashboard(Excel & Power Query)  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Power Infrastructure Market Analysis in Asia](/sample_page)
+<img src="PowerInfra Dashboard.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
