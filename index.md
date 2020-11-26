@@ -5,6 +5,7 @@
 ### Interactive Dashboard(Excel & Power Query)  
 
 [Power Infrastructure Market Analysis in Asia](/sample_page)
+
 <img src="images/PowerInfra_Dashboard.jpg?raw=true"/>
 
 ---
