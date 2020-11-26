@@ -2,7 +2,7 @@
 
 ---
 
-### Interactive Dashboard(Excel & Power Query)  
+### Interactive Dashboard (Excel & Power Query)  
 
 [Power Infrastructure Market Analysis in Asia](/sample_page)
 
