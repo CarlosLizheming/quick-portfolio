@@ -1,15 +1,16 @@
 title: Carlos Li Zheming # your name (or website title) here
-logo: "/images/Profile(small).png?raw=true" # your photo (or logo) here
+logo: "/images/New Profile(small).jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst Trainee<br>
-  at NTUC LearningHub
-  under SGUnited Skills Programme
+  at NTUC LearningHub<br>
+  under SGUnited Skills Programme<br>
   (a training programme founded by Singapore Government)
   <br><br>
-  Skills: SQL, Power Query, Excel, PowerPoint, Word
+  Skills:<br>
+  Python, Power BI, SQL, Power Query, Excel, PowerPoint, Word
   <br><br>
-  Second description 
-  <br><br>
+
+
   <a href="https://www.linkedin.com/in/zheming-li-188015114/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
