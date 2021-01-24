@@ -2,6 +2,14 @@
 
 ---
 
+### Data Analysis and Visualization by PowerBI
+
+[Global Terrorism Incidents Report (1998-2017)](/sample_page)
+
+<img src="images/Terror_Overview.jpg?raw=true"/>
+
+---
+
 ### Interactive Dashboard (Excel & Power Query)  
 
 [Power Infrastructure Market Analysis in Asia](/sample_page)
