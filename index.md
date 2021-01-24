@@ -2,7 +2,7 @@
 
 ---
 
-### Data Analysis and Visualization by PowerBI
+### Data Analysis and Visualization by Power BI
 
 [Global Terrorism Incidents Report (1998-2017)](/sample_page)
 
