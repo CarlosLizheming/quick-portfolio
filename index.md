@@ -8,6 +8,11 @@
 
 <img src="images/Terror_Overview.jpg?raw=true"/>
 
+
+[One-Day Hackathon: Performance of U.S. Government During Covid-19 Pandemic](/sample_page)
+
+<img src="images/US_Covid_19.jpg?raw=true"/>
+
 ---
 
 ### Interactive Dashboard (Excel & Power Query)  
