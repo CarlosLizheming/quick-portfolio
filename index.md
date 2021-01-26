@@ -29,6 +29,8 @@
 
 <img src="images/FIFA_World_Cup_Dashboard.jpg?raw=true"/>
 
+[View this project on GitHub](https://github.com/CarlosLizheming/Portfolio_Projects/tree/main/Create%20Relational%20Database%20%26%20Analyze%20Data%20with%20SQL%20(SQL%20%26%20Excel))
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
