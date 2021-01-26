@@ -25,7 +25,7 @@
 
 ### Create Relational Database & Analyze Data with SQL  (SQL & Excel)
 
-[FIFA World Cup Analysis 1930-2014](/pdf/Create_Relational_Database_and_Analyze_Data_with_SQL.pptx)
+[FIFA World Cup Analysis 1930-2014](/pdf/Create_Relational_Database_and_Analyze_Data_with_SQL.pdf)
 
 <img src="images/FIFA_World_Cup_Dashboard.jpg?raw=true"/>
 
