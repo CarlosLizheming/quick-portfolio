@@ -17,7 +17,7 @@
 
 ### Interactive Dashboard (Excel & Power Query)  
 
-[Power Infrastructure Market Analysis in Asia](/pdf/Create_Relational_Database_and_Analyze_Data_with_SQL.pdf)
+[Power Infrastructure Market Analysis in Asia](/pdf/Interactive_Dashboard_Excel_Power_Query.pdf)
 
 <img src="images/PowerInfra_Dashboard.jpg?raw=true"/>
 
@@ -27,7 +27,7 @@
 
 ### Create Relational Database & Analyze Data with SQL  (SQL & Excel)
 
-[FIFA World Cup Analysis 1930-2014](/pdf/Interactive_Dashboard_Excel_Power_Query.pdf)
+[FIFA World Cup Analysis 1930-2014](/pdf/Create_Relational_Database_and_Analyze_Data_with_SQL.pdf)
 
 <img src="images/FIFA_World_Cup_Dashboard.jpg?raw=true"/>
 
