@@ -17,15 +17,16 @@
 
 ### Interactive Dashboard (Excel & Power Query)  
 
-[Power Infrastructure Market Analysis in Asia](/sample_page)
+[Power Infrastructure Market Analysis in Asia](/pdf/Create_Relational_Database_and_Analyze_Data_with_SQL.pdf)
 
 <img src="images/PowerInfra_Dashboard.jpg?raw=true"/>
 
+[View this project on GitHub for more Info.](https://github.com/CarlosLizheming/Portfolio_Projects/tree/main/Create%20Relational%20Database%20%26%20Analyze%20Data%20with%20SQL%20(SQL%20%26%20Excel))
 ---
 
 ### Create Relational Database & Analyze Data with SQL  (SQL & Excel)
 
-[FIFA World Cup Analysis 1930-2014](/pdf/Create_Relational_Database_and_Analyze_Data_with_SQL.pdf)
+[FIFA World Cup Analysis 1930-2014](/pdf/Interactive_Dashboard_Excel_Power_Query.pdf)
 
 <img src="images/FIFA_World_Cup_Dashboard.jpg?raw=true"/>
 
