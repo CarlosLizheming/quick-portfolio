@@ -12,12 +12,12 @@
 
 ### Data Analysis and Visualization by Power BI
 
-[Global Terrorism Incidents Report (1998-2017)](/sample_page)
+[Global Terrorism Incidents Report (1998-2017)](https://drive.google.com/file/d/1RWXfvcnvZM5i_BA87ytyQ8pkvezqRhYr/view?usp=sharing)
 
 <img src="images/Terror_Overview.jpg?raw=true"/>
 
 
-[One-Day Hackathon: Performance of U.S. Government During Covid-19 Pandemic](https://drive.google.com/file/d/1RWXfvcnvZM5i_BA87ytyQ8pkvezqRhYr/view?usp=sharing)
+[One-Day Hackathon: Performance of U.S. Government During Covid-19 Pandemic](/sample_page)
 
 <img src="images/US_Covid_19.jpg?raw=true"/>
 
