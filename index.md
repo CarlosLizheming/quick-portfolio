@@ -2,6 +2,14 @@
 
 ---
 
+### Machine Learning using Python
+
+[Identifying the Terrorist Organization responsible for a Terrorist Attack](/pdf/Machine_Learning_using_Python.pdf)
+
+<img src="images/ML_Py.jpg?raw=true"/>
+
+---
+
 ### Data Analysis and Visualization by Power BI
 
 [Global Terrorism Incidents Report (1998-2017)](/sample_page)
