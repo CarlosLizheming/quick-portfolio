@@ -4,7 +4,7 @@
 
 ### Machine Learning using Python
 
-[Identifying the Terrorist Organization responsible for a Terrorist Attack](/pdf/Machine_Learning_using_Python.pdf)
+**[Identifying the Terrorist Organization responsible for a Terrorist Attack]**(/pdf/Machine_Learning_using_Python.pdf)
 
 <img src="images/ML_Py.jpg?raw=true"/>
 
@@ -14,7 +14,7 @@
 
 ### Data Analysis and Visualization by Power BI
 
-[Global Terrorism Incidents Report (1998-2017)](https://drive.google.com/file/d/1RWXfvcnvZM5i_BA87ytyQ8pkvezqRhYr/view?usp=sharing)
+**[Global Terrorism Incidents Report (1998-2017)]**(https://drive.google.com/file/d/1RWXfvcnvZM5i_BA87ytyQ8pkvezqRhYr/view?usp=sharing)
 
 <img src="images/Terror_Overview.jpg?raw=true"/>
 
@@ -22,7 +22,7 @@
 
 <br><br>
 
-[One-Day Hackathon: Performance of U.S. Government During Covid-19 Pandemic](/attachment/Hackathon_US_Covid.pbix)
+**[One-Day Hackathon: Performance of U.S. Government During Covid-19 Pandemic]**(/attachment/Hackathon_US_Covid.pbix)
 
 <img src="images/US_Covid_19.jpg?raw=true"/>
 
@@ -30,7 +30,7 @@
 
 ### Interactive Dashboard (Excel & Power Query)  
 
-[Power Infrastructure Market Analysis in Asia](/pdf/Interactive_Dashboard_Excel_Power_Query.pdf)
+**[Power Infrastructure Market Analysis in Asia]**(/pdf/Interactive_Dashboard_Excel_Power_Query.pdf)
 
 <img src="images/PowerInfra_Dashboard.jpg?raw=true"/>
 
@@ -40,7 +40,7 @@
 
 ### Create Relational Database & Analyze Data with SQL  (SQL & Excel)
 
-[FIFA World Cup Analysis 1930-2014](/pdf/Create_Relational_Database_and_Analyze_Data_with_SQL.pdf)
+**[FIFA World Cup Analysis 1930-2014]**(/pdf/Create_Relational_Database_and_Analyze_Data_with_SQL.pdf)
 
 <img src="images/FIFA_World_Cup_Dashboard.jpg?raw=true"/>
 
