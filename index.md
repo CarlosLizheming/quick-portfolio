@@ -20,7 +20,7 @@
 
 [View this project on GitHub for more Info.](https://github.com/CarlosLizheming/Portfolio_Projects/tree/main/Data%20Analysis%20and%20Visualization%20by%20Power%20BI)
 
-<br><br>
+
 
 **[One-Day Hackathon: Performance of U.S. Government During Covid-19 Pandemic](/attachment/Hackathon_US_Covid.pbix)**
 
