@@ -4,7 +4,7 @@
 
 ### Machine Learning using Python
 
-**[Identifying the Terrorist Organization responsible for a Terrorist Attack]**(/pdf/Machine_Learning_using_Python.pdf)
+**[Identifying the Terrorist Organization responsible for a Terrorist Attack](/pdf/Machine_Learning_using_Python.pdf)**
 
 <img src="images/ML_Py.jpg?raw=true"/>
 
